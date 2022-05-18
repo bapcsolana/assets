@@ -54,5 +54,6 @@
         "share": 10
       }
     ]
-  }
+  },
+    "collection": { "name": "BAPC", "family": "BAPC" }
 }
