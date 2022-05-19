@@ -1,0 +1,59 @@
+{
+  "name": "UGA Nation #10",
+  "symbol": "UGA",
+  "description": "1111 Baby Apes founding their own Club at Solana!",
+  "seller_fee_basis_points": 700,
+  "image": "https://www.arweave.net/Wt5zUIDNngZdnd6gJ-pIHwOpKLLRAER_jJ8lIBoJ0gA?ext=png",
+  "external_url": "https://twitter.com/UGA_NATI0N",
+  "edition": 10,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red Fire Thug"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Red Fire Thug"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Red Fire Thug"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Red Fire Thug"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Fire Thug"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Red Fire Thug"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red Fire Thug"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://www.arweave.net/Wt5zUIDNngZdnd6gJ-pIHwOpKLLRAER_jJ8lIBoJ0gA?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "Epr9UqtbBCg73FMVw2Mkkeh2jRjFuggsJoKeUHgGe75t",
+        "share": 90
+      },
+      {
+        "address": "Grf2FbYCSxAmoAEgwFW7Rz7hLciUHWYVeQ1jC9Hr4D8E",
+        "share": 10
+      }
+    ]
+  },
+    "collection": { "name": "BAPC", "family": "BAPC" }
+}
