@@ -1,0 +1,25 @@
+{
+  "name": "Phantomz #1",
+  "symbol": "PHZ",
+  "description": "Utility-based GEN 1 Collection with a multi-planetary exploration system powered by GEMS with ships, creatures & breeding dynamics.",
+  "seller_fee_basis_points": 800,
+  "image": "https://arweave.net/HS15PhUVnABQ2MyEiJoUSIQc3RodjCAZMgA_FQFMlfQ?ext=png",
+  "external_url": "https://www.komradz.com/",
+  "attributes": [
+    { "trait_type": "background", "value": "grey paper" },
+    { "trait_type": "skin", "value": "black chalk" },
+    { "trait_type": "eyes", "value": "black" },
+    { "trait_type": "mouth", "value": "black" },
+    { "trait_type": "animated", "value": "false" }
+  ],
+  "properties": {
+    "files": [{ "uri": "1.png", "type": "image/png" }],
+    "category": "image",
+    "creators": [
+      {
+        "address": "3ewvSvvaReJpzYx2RB9HhxdTLSFrtSRTgNSAXerthdEB",
+        "share": 100
+      }
+    ]
+  }
+}
